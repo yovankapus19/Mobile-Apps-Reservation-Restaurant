@@ -1,7 +1,6 @@
 # flutter_ecommerce
 
-A new Flutter project For UI/UX Developer And  Front End
-
+A new Flutter project For UI/UX Developer And Front End And BackEnd
 
 ## Getting Started
 
